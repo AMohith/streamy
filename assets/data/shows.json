@@ -1,0 +1,572 @@
+{
+  "categories": {
+    "trending": {
+      "title": "Trending Now",
+      "shows": [
+        {
+          "id": "stranger-things",
+          "title": "Stranger Things",
+          "imageUrl": "https://picsum.photos/240/360?random=2",
+          "episodes": [
+            {
+              "id": "s1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "episode": 1
+            },
+            {
+              "id": "s1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "episode": 2
+            },
+            {
+              "id": "s1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 3
+            },
+            {
+              "id": "s1e4",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 4
+            },
+            {
+              "id": "s1e5",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 5
+            }
+          ]
+        },
+        {
+          "id": "the-crown",
+          "title": "The Crown",
+          "imageUrl": "https://picsum.photos/240/360?random=4",
+          "episodes": [
+            {
+              "id": "tc1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tc1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tc1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "money-heist",
+          "title": "Money Heist",
+          "imageUrl": "https://picsum.photos/240/360?random=3",
+          "episodes": [
+            {
+              "id": "mh1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 1
+            },
+            {
+              "id": "mh1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "mh1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 3
+            },
+            {
+              "id": "mh1e4",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 4
+            }
+          ]
+        },
+        {
+          "id": "dark",
+          "title": "Dark",
+          "imageUrl": "https://picsum.photos/240/360?random=19",
+          "episodes": [
+            {
+              "id": "de1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 1
+            },
+            {
+              "id": "de2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 2
+            },
+            {
+              "id": "de3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            },
+            {
+              "id": "de4",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 4
+            }
+          ]
+        },
+        {
+          "id": "breaking-bad",
+          "title": "Breaking Bad",
+          "imageUrl": "https://picsum.photos/240/360?random=24",
+          "episodes": [
+            {
+              "id": "bb1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 1
+            },
+            {
+              "id": "bb1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "bb1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        }
+      ]
+    },
+    "drama": {
+      "title": "Drama Series",
+      "shows": [
+        {
+          "id": "breaking-bad",
+          "title": "Breaking Bad",
+          "imageUrl": "https://picsum.photos/240/360?random=45",
+          "episodes": [
+            {
+              "id": "tc1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tc1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tc1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "dark",
+          "title": "Dark",
+          "imageUrl": "https://picsum.photos/240/360?random=5",
+          "episodes": [
+            {
+              "id": "tc1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tc1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tc1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "the-bear",
+          "title": "The Bear",
+          "imageUrl": "https://picsum.photos/240/360?random=35",
+          "episodes": [
+            {
+              "id": "tc1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tc1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tc1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "silo",
+          "title": "Silo",
+          "imageUrl": "https://picsum.photos/240/360?random=33",
+          "episodes": [
+            {
+              "id": "s1e1",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 1
+            },
+            {
+              "id": "s1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 2
+            },
+            {
+              "id": "s1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            }
+          ]
+        }
+      ]
+    },
+    "action": {
+      "title": "Action & Adventure",
+      "shows": [
+        {
+          "id": "the-witcher",
+          "title": "The Witcher",
+          "imageUrl": "https://picsum.photos/240/360?random=6",
+          "episodes": [
+            {
+              "id": "tw1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tw1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tw1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "narcos",
+          "title": "Narcos",
+          "imageUrl": "https://picsum.photos/240/360?random=7",
+          "episodes": [
+            {
+              "id": "tc1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tc1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tc1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "jackal",
+          "title": "Jackal",
+          "imageUrl": "https://picsum.photos/240/360?random=17",
+          "episodes": [
+            {
+              "id": "j1e1",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 1
+            },
+            {
+              "id": "j1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 2
+            },
+            {
+              "id": "j1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "good-boy",
+          "title": "Good Boy",
+          "imageUrl": "https://picsum.photos/240/360?random=29",
+          "episodes": [
+            {
+              "id": "g1e1",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 1
+            },
+            {
+              "id": "g1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 2
+            },
+            {
+              "id": "g1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "shogun",
+          "title": "Shogun",
+          "imageUrl": "https://picsum.photos/240/360?random=36",
+          "episodes": [
+            {
+              "id": "j1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 1
+            },
+            {
+              "id": "j1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 2
+            },
+            {
+              "id": "j1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            }
+          ]
+        }
+      ]
+    },
+    "comedy": {
+      "title": "Comedy",
+      "shows": [
+        {
+          "id": "the-office",
+          "title": "The Office",
+          "imageUrl": "https://picsum.photos/240/360?random=8",
+          "episodes": [
+            {
+              "id": "to1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "episode": 1
+            },
+            {
+              "id": "to1e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            },
+            {
+              "id": "to1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "brooklyn-nine-nine",
+          "title": "Brooklyn Nine-Nine",
+          "imageUrl": "https://picsum.photos/240/360?random=9",
+          "episodes": [
+            {
+              "id": "b99e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 1
+            },
+            {
+              "id": "b99e2",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 2
+            }
+          ]
+        },
+        {
+          "id": "friends",
+          "title": "Friends",
+          "imageUrl": "https://picsum.photos/240/360?random=10",
+          "episodes": [
+            {
+              "id": "f1e1",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 1
+            },
+            {
+              "id": "f1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 2
+            }
+          ]
+        },
+        {
+          "id": "ted-lasso",
+          "title": "Ted Lasso",
+          "imageUrl": "https://picsum.photos/240/360?random=30",
+          "episodes": [
+            {
+              "id": "te1",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 1
+            },
+            {
+              "id": "te2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 2
+            }
+          ]
+        }
+      ]
+    },
+    "scifi": {
+      "title": "Sci-Fi & Fantasy",
+      "shows": [
+        {
+          "id": "westworld",
+          "title": "West World",
+          "imageUrl": "https://picsum.photos/240/360?random=11",
+          "episodes": [
+            {
+              "id": "ww1e1",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 1
+            },
+            {
+              "id": "ww1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 2
+            }
+          ]
+        },
+        {
+          "id": "black-mirror",
+          "title": "Black Mirror",
+          "imageUrl": "https://picsum.photos/240/360?random=12",
+          "episodes": [
+            {
+              "id": "bm1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 1
+            },
+            {
+              "id": "bm1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 2
+            },
+            {
+              "id": "bm1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "foundation",
+          "title": "Foundation",
+          "imageUrl": "https://picsum.photos/240/360?random=13",
+          "episodes": [
+            {
+              "id": "bm1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "episode": 1
+            },
+            {
+              "id": "bm1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 2
+            },
+            {
+              "id": "bm1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            }
+          ]
+        },
+        {
+          "id": "travelers",
+          "title": "Travelers",
+          "imageUrl": "https://picsum.photos/240/360?random=26",
+          "episodes": [
+            {
+              "id": "tr1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "episode": 1
+            },
+            {
+              "id": "tr1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 2
+            },
+            {
+              "id": "tr1e3",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+              "episode": 3
+            },
+            {
+              "id": "tr1e4",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "episode": 4
+            }
+          ]
+        },
+        {
+          "id": "see",
+          "title": "See",
+          "imageUrl": "https://picsum.photos/240/360?random=37",
+          "episodes": [
+            {
+              "id": "s1e1",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "episode": 1
+            },
+            {
+              "id": "s1e2",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "episode": 2
+            },
+            {
+              "id": "s1e3",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "episode": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "featured": {
+    "id": "the-mandalorian",
+    "title": "The Mandalorian",
+    "imageUrl": "https://picsum.photos/800/450?random=1",
+    "episodes": [
+      {
+        "id": "s1e1",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "episode": 1
+      },
+      {
+        "id": "s1e2",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "episode": 2
+      },
+      {
+        "id": "s1e3",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "episode": 3
+      },
+      {
+        "id": "s1e4",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "episode": 4
+      },
+      {
+        "id": "s1e5",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
+        "episode": 5
+      }
+    ]
+  }
+}
