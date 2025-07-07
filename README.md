@@ -6,7 +6,7 @@ A Prototype of an OTT application built using flutter. This App contains a home 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AMohith/streamy.git
    cd streamy
    ```
 2. **Install dependencies**
