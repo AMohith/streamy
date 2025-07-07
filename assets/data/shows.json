@@ -10,22 +10,22 @@
           "episodes": [
             {
               "id": "s1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
               "episode": 1
             },
             {
               "id": "s1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
               "episode": 2
             },
             {
               "id": "s1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 3
             },
             {
               "id": "s1e4",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 4
             },
             {
@@ -42,7 +42,7 @@
           "episodes": [
             {
               "id": "tc1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 1
             },
             {
@@ -52,7 +52,7 @@
             },
             {
               "id": "tc1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -64,7 +64,7 @@
           "episodes": [
             {
               "id": "mh1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 1
             },
             {
@@ -74,7 +74,7 @@
             },
             {
               "id": "mh1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             },
             {
@@ -91,12 +91,12 @@
           "episodes": [
             {
               "id": "de1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 1
             },
             {
               "id": "de2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 2
             },
             {
@@ -106,7 +106,7 @@
             },
             {
               "id": "de4",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 4
             }
           ]
@@ -118,7 +118,7 @@
           "episodes": [
             {
               "id": "bb1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 1
             },
             {
@@ -128,7 +128,7 @@
             },
             {
               "id": "bb1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -145,7 +145,7 @@
           "episodes": [
             {
               "id": "tc1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
               "episode": 1
             },
             {
@@ -155,7 +155,7 @@
             },
             {
               "id": "tc1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -167,7 +167,7 @@
           "episodes": [
             {
               "id": "tc1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 1
             },
             {
@@ -177,7 +177,7 @@
             },
             {
               "id": "tc1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -189,7 +189,7 @@
           "episodes": [
             {
               "id": "tc1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 1
             },
             {
@@ -199,7 +199,7 @@
             },
             {
               "id": "tc1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -216,7 +216,7 @@
             },
             {
               "id": "s1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             },
             {
@@ -238,7 +238,7 @@
           "episodes": [
             {
               "id": "tw1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 1
             },
             {
@@ -248,7 +248,7 @@
             },
             {
               "id": "tw1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -260,7 +260,7 @@
           "episodes": [
             {
               "id": "tc1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 1
             },
             {
@@ -270,7 +270,7 @@
             },
             {
               "id": "tc1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -287,7 +287,7 @@
             },
             {
               "id": "j1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             },
             {
@@ -309,7 +309,7 @@
             },
             {
               "id": "g1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             },
             {
@@ -326,12 +326,12 @@
           "episodes": [
             {
               "id": "j1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 1
             },
             {
               "id": "j1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             },
             {
@@ -353,7 +353,7 @@
           "episodes": [
             {
               "id": "to1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 1
             },
             {
@@ -363,7 +363,7 @@
             },
             {
               "id": "to1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 3
             }
           ]
@@ -375,7 +375,7 @@
           "episodes": [
             {
               "id": "b99e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 1
             },
             {
@@ -397,7 +397,7 @@
             },
             {
               "id": "f1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             }
           ]
@@ -414,7 +414,7 @@
             },
             {
               "id": "te2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             }
           ]
@@ -436,7 +436,7 @@
             },
             {
               "id": "ww1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 2
             }
           ]
@@ -448,12 +448,12 @@
           "episodes": [
             {
               "id": "bm1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 1
             },
             {
               "id": "bm1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 2
             },
             {
@@ -470,12 +470,12 @@
           "episodes": [
             {
               "id": "bm1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
               "episode": 1
             },
             {
               "id": "bm1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 2
             },
             {
@@ -492,12 +492,12 @@
           "episodes": [
             {
               "id": "tr1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
               "episode": 1
             },
             {
               "id": "tr1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 2
             },
             {
@@ -507,7 +507,7 @@
             },
             {
               "id": "tr1e4",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
               "episode": 4
             }
           ]
@@ -519,17 +519,17 @@
           "episodes": [
             {
               "id": "s1e1",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
               "episode": 1
             },
             {
               "id": "s1e2",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
               "episode": 2
             },
             {
               "id": "s1e3",
-              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
               "episode": 3
             }
           ]
@@ -540,26 +540,26 @@
   "featured": {
     "id": "the-mandalorian",
     "title": "The Mandalorian",
-    "imageUrl": "https://picsum.photos/800/450?random=1",
+    "imageUrl": "https://picsum.photos/id/343/800/450",
     "episodes": [
       {
         "id": "s1e1",
-        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
         "episode": 1
       },
       {
         "id": "s1e2",
-        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
         "episode": 2
       },
       {
         "id": "s1e3",
-        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
         "episode": 3
       },
       {
         "id": "s1e4",
-        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
         "episode": 4
       },
       {
